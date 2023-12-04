@@ -49,3 +49,6 @@ The payload sent from the IoT devices should be in the format
 The only header should be 
 
 ```Content-Type application/json```
+
+## Other Settings
+You should set up your Gateway to have a specific IP such as 192.168.1.250
